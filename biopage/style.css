@@ -1,0 +1,103 @@
+.greet {
+      font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  background-color: #89CFF0;
+  padding: 2% 2%;
+}
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.about h3{
+    font-weight: bolder;
+    text-align: left;
+    padding:1% 0% 1% 0%; 
+}
+
+.about{
+    border-style:solid;
+    border-width: 12px;
+    border-bottom: 0px;
+  border-color:#F5F5F5;
+  padding: 0px 10px 5px;
+}
+.back_ground{
+    border: 12px solid #F5F5F5;
+    padding: 8px 10px 20px;
+}
+.back_ground h3{
+    text-align: left;
+    font-weight: bolder;
+}
+.badge{
+    background-color: #89CFF0;
+    color:white;
+}
+.profile{
+    border-width:12px;
+    border-top:0px;
+    border-style:solid;
+    border-color:#F5F5F5;
+    padding: 8px 10px 20px;
+}
+.profile h3{
+    font-weight: bolder;
+    text-align: left;
+}
+.icon-dark{
+    font-size: 2rem;
+    color:black;
+}
+.icon-mod{
+    font-size: 2rem;
+}
+.h-mod{
+    color: rgb(14,165,119);
+    font-size: 2rem;
+}
+.insta-mod{
+    font-size: 2rem;
+    color: #FD1D1D;
+}
+.social-icons{
+    display: flex;
+  justify-content: space-between; /* evenly distributes icons */
+  align-items: center;
+  width: 30%; /* or a fixed width if needed */
+}
+.thanks{
+     font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  background-color: #89CFF0;
+  padding: 1% 2%;
+}
+form{
+    border-width:12px;
+    border-top:0px;
+    border-style:solid;
+    border-color:#F5F5F5;
+    padding: 8px 10px 20px;
+}
+.button{
+   text-align:center;
+   margin-top:10px;
+}
+.text{
+    text-align: center;
+}
+.text>input{
+    padding: 12px; 
+         border: solid; 
+         border-radius: 10px; 
+         background: linear-gradient(90deg, #f5f5f5, #d3d3d3); 
+         color: #333; 
+         font-size: 16px;
+}
+::placeholder{
+    text-align: center;
+}
