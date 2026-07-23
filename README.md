@@ -14,7 +14,7 @@ This repository contains research-oriented implementations of classical **Federa
 
 | Component | Technology |
 |-----------|------------|
-| Programming Language | Python 3.x |
+| Programming Language | Python 3.12 |
 | Deep Learning Framework | TensorFlow |
 | High-Level API | Keras |
 | Numerical Computing | NumPy |
